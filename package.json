@@ -4,8 +4,10 @@
   "description": "",
   "scripts": {
     "build1": "tsc day-1/index.ts",
-    "day1": "pnpm build1 && node day-1/index.js",
-    "test1": "pnpm build1 && node day-1/index.js day-1/test"
+    "day1_1": "pnpm build1 && node day-1/index.js DISTANCE day-1/input",
+    "day1_2": "pnpm build1 && node day-1/index.js SIMILARITY day-1/input",
+    "test1_1": "pnpm build1 && node day-1/index.js DISTANCE day-1/test",
+    "test1_2": "pnpm build1 && node day-1/index.js SIMILARITY day-1/test"
   },
   "keywords": [],
   "author": "",
