@@ -2,14 +2,18 @@
   "name": "aoc-2025",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "day1": "node day-1/index.ts"
+    "build1": "tsc day-1/index.ts",
+    "day1": "pnpm build1 && node day-1/index.js",
+    "test1": "pnpm build1 && node day-1/index.js day-1/test"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@types/node": "^22.10.5"
   }
 }
