@@ -1,2 +1,2 @@
-# aoc-2025
-My attempt to solve Advent of Code 2025
+# aoc-2024
+My attempt to solve Advent of Code 2024
