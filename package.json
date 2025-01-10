@@ -7,7 +7,10 @@
     "day1_1": "pnpm build1 && node day-1/index.js DISTANCE day-1/input",
     "day1_2": "pnpm build1 && node day-1/index.js SIMILARITY day-1/input",
     "test1_1": "pnpm build1 && node day-1/index.js DISTANCE day-1/test",
-    "test1_2": "pnpm build1 && node day-1/index.js SIMILARITY day-1/test"
+    "test1_2": "pnpm build1 && node day-1/index.js SIMILARITY day-1/test",
+    "build2": "tsc day-2/index.ts",
+    "day2": "pnpm build2 && node day-2/index.js day-2/input",
+    "test2": "pnpm build2 && node day-2/index.js day-2/test"
   },
   "keywords": [],
   "author": "",
