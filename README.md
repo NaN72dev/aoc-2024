@@ -18,3 +18,14 @@ pnpm day1_1
 pnpm day1_2
 #> 23228917
 ```
+
+# [Day 2](https://adventofcode.com/2024/day/2)
+
+> 2025-01-10 (~...)
+
+## Part 1
+
+```sh
+pnpm day2
+#> 660
+```
