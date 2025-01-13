@@ -12,7 +12,12 @@
     "day2_1": "pnpm build2 && node day-2/index.js day-2/input",
     "day2_2": "pnpm build2 && node day-2/index.js day-2/input tolerate",
     "test2_1": "pnpm build2 && node day-2/index.js day-2/test",
-    "test2_2": "pnpm build2 && node day-2/index.js day-2/test tolerate"
+    "test2_2": "pnpm build2 && node day-2/index.js day-2/test tolerate",
+    "build3": "tsc day-3/index.ts",
+    "day3_1": "pnpm build3 && node day-3/index.js day-3/input",
+    "day3_2": "pnpm build3 && node day-3/index.js day-3/input tolerate",
+    "test3_1": "pnpm build3 && node day-3/index.js day-3/test",
+    "test3_2": "pnpm build3 && node day-3/index.js day-3/test tolerate"
   },
   "keywords": [],
   "author": "",
