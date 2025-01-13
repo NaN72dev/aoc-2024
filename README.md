@@ -38,3 +38,23 @@ Brute forcing, I'm not proud of it, but it's not that bad.
 pnpm day2_2
 #> 689
 ```
+
+# [Day 3](https://adventofcode.com/2024/day/3)
+
+> 2025-01-13 (~30m)
+
+Well I prompted my AI to generate the regex. Who write their own regex anyway?
+
+## Part 1
+
+```sh
+pnpm day3_1
+#> 174561379
+```
+
+## Part 2
+
+```sh
+pnpm day3_2
+#> 106921067
+```
