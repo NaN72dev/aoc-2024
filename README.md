@@ -10,7 +10,7 @@ pnpm install
 
 # [Day 1](https://adventofcode.com/2024/day/1)
 
-> 2025-01-09 (~30m)
+> 2025-01-09 (~60m)
 
 ## Part 1
 
@@ -68,7 +68,7 @@ pnpm day3_2
 
 # [Day 4](https://adventofcode.com/2024/day/4)
 
-> 2025-01-14 (~...m)
+> 2025-01-14 (~60m)
 
 ## Part 1
 
