@@ -20,7 +20,9 @@
     "test3_2": "pnpm build3 && node day-3/index.js day-3/test2 conditional",
     "build4": "tsc day-4/index.ts",
     "day4_1": "pnpm build4 && node day-4/index.js day-4/input",
-    "test4_1": "pnpm build4 && node day-4/index.js day-4/test"
+    "day4_2": "pnpm build4 && node day-4/index.js day-4/input x-mas",
+    "test4_1": "pnpm build4 && node day-4/index.js day-4/test",
+    "test4_2": "pnpm build4 && node day-4/index.js day-4/test x-mas"
   },
   "keywords": [],
   "author": "",

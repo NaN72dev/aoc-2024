@@ -78,3 +78,12 @@ The logic might be right, but the comments are probably wrong.
 pnpm day4_1
 #> 2567
 ```
+
+## Part 2
+
+A lot of hard coded logic, I guess I was just bored in the middle of the solution.
+
+```sh
+pnpm day4_2
+#> 2029
+```
