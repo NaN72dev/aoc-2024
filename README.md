@@ -1,19 +1,26 @@
 # aoc-2024
+
 My ***really late*** attempt to solve [Advent of Code 2024](https://adventofcode.com/2024)
 
 Install dependencies to run the code
+
 ```sh
 pnpm install
 ```
 
 # [Day 1](https://adventofcode.com/2024/day/1)
+
 > 2025-01-09 (~30m)
+
 ## Part 1
+
 ```sh
 pnpm day1_1
 #> 1889772
 ```
+
 ## Part 2
+
 ```sh
 pnpm day1_2
 #> 23228917
@@ -57,4 +64,17 @@ pnpm day3_1
 ```sh
 pnpm day3_2
 #> 106921067
+```
+
+# [Day 4](https://adventofcode.com/2024/day/4)
+
+> 2025-01-14 (~...m)
+
+## Part 1
+
+The logic might be right, but the comments are probably wrong.
+
+```sh
+pnpm day4_1
+#> 2567
 ```
