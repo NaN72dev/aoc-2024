@@ -1,6 +1,6 @@
 # aoc-2024
 
-My ***really late*** attempt to solve [Advent of Code 2024](https://adventofcode.com/2024)
+My ***really late*** and ***really janky*** attempt to solve [Advent of Code 2024](https://adventofcode.com/2024)
 
 Install dependencies to run the code
 
